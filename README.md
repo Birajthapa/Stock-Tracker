@@ -1,1 +1,1 @@
-## API KEY cj81k81r01qkj2usuj90cj81k81r01qkj2usuj9g
+This is a simple Stock tracking app. It lets you to save your favourite stock and watch them.
